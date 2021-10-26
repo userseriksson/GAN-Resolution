@@ -1,5 +1,5 @@
 numpy 
-pillow
+Pillow
 PIL
 ISR
 Streamlit
