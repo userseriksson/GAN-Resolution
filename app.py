@@ -13,7 +13,7 @@ def predict(img):
 
 
 st.title("Super Resolution GAN ")
-st.subheader("Upload an image you wahnt to improve)   
+st.subheader("Upload an image you wahnt to improve")   
 st.spinner("Testing spinner")
 
 uploaded_file = st.file_uploader("Choose an image...", type=("jpg", "png", "jpeg"))
